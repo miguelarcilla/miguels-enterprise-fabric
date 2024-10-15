@@ -1,0 +1,16 @@
+{
+  "config": "{\"version\":\"5.54\",\"themeCollection\":{\"baseTheme\":{\"name\":\"CY24SU05\",\"version\":\"5.54\",\"type\":2}},\"defaultDrillFilterOtherVisuals\":true,\"settings\":{\"useNewFilterPaneExperience\":true,\"allowChangeFilterTypes\":true,\"useStylableVisualContainerHeader\":true,\"queryLimitOption\":6,\"useEnhancedTooltips\":true,\"exportDataMode\":1,\"useDefaultAggregateDisplayName\":true},\"objects\":{\"section\":[{\"properties\":{\"verticalAlignment\":{\"expr\":{\"Literal\":{\"Value\":\"'Top'\"}}}}}]},\"creationSource\":\"Default\"}",
+  "layoutOptimization": 0,
+  "resourcePackages": [],
+  "sections": [
+    {
+      "config": "{}",
+      "displayOption": 1,
+      "filters": "[]",
+      "height": 720.00,
+      "name": "1ff550e0d85be04905d7",
+      "visualContainers": [],
+      "width": 1280.00
+    }
+  ]
+}
